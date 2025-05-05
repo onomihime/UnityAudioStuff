@@ -1,7 +1,8 @@
 // Copyright (c) 2025 onomihime (github.com/onomihime)
-// Originally from: github.com/onomihime/UnityCustomUI
+// Originally from: github.com/onomihime/UnityAudioStuff
 // Licensed under the MIT License. See the LICENSE file in the repository root for full license text.
 // This file may be used in commercial projects provided the above copyright notice and this permission notice appear in all copies.
+
 
 
 
